@@ -1,0 +1,9 @@
+Package: Killua02
+Type: Package
+Title: This package is for teachers to teach subjects.
+Version: 1.1.1
+Author: Killua Zaoldyeck
+Maintainer: Killua Zaoldyeck <y.h.08491911@gmail.com>
+Description: This package makes teacher's work easier.
+License: Killua Zaoldyeck
+LazyData: true
